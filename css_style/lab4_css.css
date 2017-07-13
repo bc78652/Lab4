@@ -1,0 +1,44 @@
+table{
+	background-color: blue;
+	margin: auto;
+	border: solid black;
+	color: white;
+	position: relative;
+	top: 300px;
+}
+h1{
+	text-align: center;
+}
+td{
+	border: solid blue;
+}
+tr{
+	border-bottom: 4px solid red;
+	border-top: 4px solid red;
+}
+/*MAINLY BACKGROUND*/
+body{
+	margin: auto;
+	background-image: url(https://media.giphy.com/media/6kbfDhBd5FzhK/giphy-downsized-large.gif);
+	 background-size: cover;
+}
+.horlines{
+	border-bottom: 1px solid blue;
+	border-top: 4px solid red;
+}
+
+h1{
+	color: blue;
+}
+address{
+	color: white;
+	text-align: center;
+	padding: 0 0 10px 0;
+}
+.div_spacing_2{
+	height: 720px;
+	
+}
+.div_spacing{
+	height: 700px;
+}
